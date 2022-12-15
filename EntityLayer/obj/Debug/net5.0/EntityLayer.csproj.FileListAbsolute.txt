@@ -1,0 +1,15 @@
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\D\D\çalışmalar\Backend\Yürütülen\School\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache

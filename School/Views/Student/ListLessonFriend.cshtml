@@ -1,0 +1,27 @@
+﻿
+@using EntityLayer
+@model List<Student>
+
+@{
+    ViewData["Title"] = "ListLessonFriend";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+}
+
+<h1>List Lesson Friend</h1>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Student ID</th>
+        <td>Student Name</td>
+        <td>Student Last Name</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.StudentID</td>
+            <td>@item.Name</td>
+            <td>@item.LastName</td>
+        </tr>
+    }
+
+</table>

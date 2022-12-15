@@ -1,0 +1,33 @@
+﻿
+
+@{
+    ViewData["Title"] = "ListLesson";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+}
+
+@using EntityLayer
+@model List<Lesson>
+
+
+<center> <h2>MY LESSONSS</h2></center>
+<section class="col-10 align-content-center ml-1">
+</section>
+
+<table class="table table-dark col-10  mx-auto">
+    <tr>
+        <th>Lesson ID</th>
+        <th>Lesson Name</th>
+        <th>Lesson Credit</th>
+        <th>Teacher ID</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>@item.LessonID</th>
+            <td>@item.Name</td>
+            <td>@item.Credit</td>
+            <td>@item.TeacherID</td>
+        </tr>
+    }
+
+</table>

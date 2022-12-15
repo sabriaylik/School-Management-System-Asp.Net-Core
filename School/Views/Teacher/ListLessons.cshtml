@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "GetLesson";
+    Layout = "~/Views/Shared/_TeacherLayout.cshtml";
+}
+
+@using EntityLayer
+@model List<Lesson>
+
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>Lesson ID</th>
+        <th>Lesson Name</th>
+        <th>Lesson Credit</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <th>@item.LessonID</th>
+            <td>@item.Name</td>
+            <td>@item.Credit</td>
+        </tr>
+    }
+    
+    <tr>
+        <td>
+       <a href="/Lesson/CreateLesson/" class="btn btn-success">Create Lesson</a>
+
+        </td>
+    </tr>
+       
+</table>

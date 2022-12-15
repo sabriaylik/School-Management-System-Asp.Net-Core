@@ -1,0 +1,17 @@
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\D\D\çalışmalar\Backend\Yürütülen\School\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete

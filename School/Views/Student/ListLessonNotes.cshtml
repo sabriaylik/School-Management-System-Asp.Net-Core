@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewData["Title"] = "ListLessonNotes";
+    Layout = "~/Views/Shared/_StudentLayout.cshtml";
+}
+@using EntityLayer.Concrete
+@model List<LessonStudent>
+
+
+<h1>List  Lesson Notes</h1>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Lesson ID</th>
+        <th>Lesson Name</th>
+        <th>Exam 1</th>
+        <th>Exam 2</th>
+        <th>Result</th>
+    </tr>
+    @foreach(var item in Model)
+            {
+<tr>
+    <th>@item.LessonID</th>
+    <td>@item.Lesson.Name</td>
+    <td>@item.Exam1</td>
+    <td>@item.Exam2</td>
+    <td>@item.Result</td>
+</tr>
+            }
+
+</table>
