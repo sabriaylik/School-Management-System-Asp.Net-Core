@@ -5,6 +5,6 @@ Used Tools
 <lu>
 <li>.Net Core 5</li>
 <li>Entity Framework Core</li>
-<li>>MSSQL</li>
+<li>MSSQL</li>
 
-</lu
+</lu>
